@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Google Sponsored Remover",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Remove the sponsored listings on google searches!",
   "icons": {
     "16": "images/icon-16.png",
