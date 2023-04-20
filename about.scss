@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #202123;
+    margin: 25px 50px;
+}
+
+h2
+{
+    color: white;
+    letter-spacing: 1px;
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+}
+
+p
+{
+    font-size: .9rem;
+}
